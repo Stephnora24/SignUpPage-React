@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stephnora24/SignUpPage-React.git/static/css/main.df3ae983.css",
+    "main.js": "/Stephnora24/SignUpPage-React.git/static/js/main.dd2ace97.js",
+    "static/js/787.8b3b6875.chunk.js": "/Stephnora24/SignUpPage-React.git/static/js/787.8b3b6875.chunk.js",
+    "static/media/bani.svg": "/Stephnora24/SignUpPage-React.git/static/media/bani.607193c5e44c066306d1130910e864a0.svg",
+    "index.html": "/Stephnora24/SignUpPage-React.git/index.html",
+    "main.df3ae983.css.map": "/Stephnora24/SignUpPage-React.git/static/css/main.df3ae983.css.map",
+    "main.dd2ace97.js.map": "/Stephnora24/SignUpPage-React.git/static/js/main.dd2ace97.js.map",
+    "787.8b3b6875.chunk.js.map": "/Stephnora24/SignUpPage-React.git/static/js/787.8b3b6875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3ae983.css",
+    "static/js/main.dd2ace97.js"
+  ]
+}
