@@ -1,0 +1,169 @@
+.Apps {
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(245, 246, 250);
+  height: 100vh;
+}
+.App {
+  display: flex;
+  place-content: stretch flex-start;
+  order: 0;
+  padding: 0px;
+}
+
+.App-image{
+  margin: 20px 0px;
+  width: 80px;
+  height: 50px;
+  border-style: none;
+}
+.App1{
+  background-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  padding: 20px 20px 30px;
+  width: 22%;
+}
+.App2{
+  font-family: Poppins, sans-serif;
+  line-height: 35px;
+  margin: 0px;
+  font-weight: 600;
+  white-space: nowrap;
+  font-size: 1.4rem;
+}
+.App3{
+  display: flex;
+  flex-direction: row;
+  place-content: stretch flex-start;
+  align-items: stretch;
+  order: 0;
+  -webkit-box-flex: 0;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+}
+.App4{
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  font-family: Poppins, sans-serif;
+  padding: 0px 10px 0px 0px;
+  white-space: nowrap;
+}
+.App5{
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  font-family: Poppins, sans-serif;
+  color: rgb(84, 68, 242);
+}
+.App6{
+  display: block;
+  color: rgb(101, 113, 124);
+}
+.App7{
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  font-family: Poppins, sans-serif;
+  font-size: 0.9rem;
+  margin: 5px 0px;
+  color: rgb(101, 113, 124);
+}
+.App8{
+  font-family: Poppins, sans-serif;
+  width: 100%;
+  height: 36px;
+  border-radius: 5px;
+  border: 1px solid rgba(225, 225, 225, 0.8);
+  padding: 0px ;
+  font-size: 100%;
+  text-indent: 10px;
+}
+
+.App9{
+  display: flex;
+  flex-direction: row;
+  place-content: stretch space-between;
+  align-items: stretch;
+  order: 0;
+  height: auto;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(101, 113, 124);
+  margin-top: 16px;
+}
+.App10{
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  font-family: Poppins, sans-serif;
+  font-size: 0.9rem;
+  margin: 5px 0px;
+}
+
+.App11{
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  font-family: Poppins, sans-serif;
+  color: rgb(84, 68, 242);
+  font-size: 0.9rem;
+  margin: 5px 0px;
+}
+.App12{
+  display: flex;
+  flex-direction: row;
+  place-content: stretch flex-start;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  order: 0;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+}
+.App13{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+}
+.App14{
+  display: flex;
+  background-color: rgb(84, 68, 242);
+  align-items: center;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  border: 0px;
+  margin-top: 13px;
+  padding: 10px 0px;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+}
+.App15{
+  font-family: Poppins, sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+  .App1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 20px 20px 30px;
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .App1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 20px 20px 30px;
+    width: 80%;
+  }
+}
